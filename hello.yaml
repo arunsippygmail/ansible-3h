@@ -4,3 +4,6 @@
   - name: "My First Task"
     debug:
           msg: "Hello Tower to world"
+  - name: "Testing for the git repo connectivity"
+    debug:
+      msg: "New line added...."
